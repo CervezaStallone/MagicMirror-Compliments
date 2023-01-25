@@ -5,7 +5,7 @@
             "Jij maakt vandaag het verschil!",
             "Een prachtige lach, voor een prachtige dag",
             "Kijk je nog steeds naar de spiegel?",
-            "Hallo, ik ben Ei, Spieg Ei",
+            "Hallo, ik ben Ei, Spiegel Ei",
             "Beter 1 vogel in de hand, dan poepen op een natte krant!"
 
     ],
@@ -20,12 +20,14 @@
             "Nog even je werk afmaken...",
             "Middag! Niet de avond.. niet de ochtend..",
             "Is dit niet een leuke dag?",
-            "Bijna etenstijd!"
+            "Bijna etenstijd!",
+            "Is het eten al klaar?", 
+            "Patat, Pizza of Sushi?"
     ],
     "evening" : [
             "En nu op naar de vergadering.",
             "Eet smakelijk!",
-            "Even rust, heerlijk....",
+            "Misschien ben je morgen wel vrij!",
             "Jij hebt het verschil gemaakt!",
             "Was het eten lekker?",
             "Ik heb zin in chips.",
